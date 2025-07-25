@@ -54,6 +54,8 @@ La comunicación es **peer-to-peer** (directa entre anfitrión e invitados) grac
 
 * [**react-qr-code**](https://github.com/rosskhanas/react-qr-code) (para generar los códigos QR)
 
+* [**Tone.js**](https://tonejs.github.io/) (para la generación del sonido del buzzer en el navegador)
+
 ## Instalación y Uso Local
 
 1. **Clona el repositorio:**
